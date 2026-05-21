@@ -10,6 +10,7 @@ from random_wrapper import RandomWrapper
 from simulator import simulate
 from viewer_wrapper import run_viewer
 
+
 if __name__ == '__main__':
     with open('./config.json', 'r') as f:
         config = json.load(f)
