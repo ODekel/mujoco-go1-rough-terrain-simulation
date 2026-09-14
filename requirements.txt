@@ -1,0 +1,9 @@
+brax==0.14.2
+jax==0.10.1
+mujoco==3.8.1
+mujoco-mjx==3.8.1
+playground==0.2.0
+numpy==2.4.6
+pillow==12.2.0
+pygame==2.6.1
+keyboard==0.13.5
