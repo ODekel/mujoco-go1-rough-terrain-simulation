@@ -1,0 +1,21 @@
+{
+  "logging": {
+    "level": "INFO"
+  },
+  "controls": {
+    "controller": {
+      "yawAxis": 2,
+      "deadzone": 0.05
+    }
+  },
+  "env": {
+    "baseEnvName": "Go1JoystickRoughTerrain",
+    "heightfieldOverrideImage": null,
+    "heightfieldScaling": 1.0
+  },
+  "policy": {
+    "savedPolicyPath": "./saved-params",
+    "policyHiddenLayerSizes": [512, 256, 128],
+    "valueHiddenLayerSizes": [512, 256, 128]
+  }
+}
